@@ -253,7 +253,7 @@
 # print 'the result is', sum
 
 
-import sys, shelve
+#import sys, shelve
 #
 # def store_person(db):
 #     pid = raw_input('Enter the Uniqur ID:')
@@ -297,6 +297,6 @@ import sys, shelve
 # for i in f.readlines():
 #     print i
 #
-
+print 'hello world'
 
 
